@@ -1,3 +1,6 @@
+Adrian Egbuna VUG/SEN/22/7471
+Temiloye David Oyekan VUG/SEN/22/7495
+
 # Diet Planning Expert System
 
 ## Objective
@@ -35,3 +38,4 @@ Generate a diet plan based on health status and goals
 7. Provide meal alternatives.
 8. Visualise meal breakdowns.
 9. Test for health scenarios.
+
